@@ -4,6 +4,8 @@
 
 using System;
 
+//Grade 10/10 - Great job, and I like that you compute the squares in the outer loops so that it is done as few times as possible.
+
 public class PythagoreanTriples
 {
    public static void Main(string[] args)
