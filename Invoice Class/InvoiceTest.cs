@@ -3,6 +3,7 @@
 
 using System;
 
+//Graded: 10/10
 class InvoiceTest
 {
    static void Main(string[] args)
