@@ -16,3 +16,6 @@ C:\Users\Robert\Downloads\Assignments-master\Assignments-master\Guess the Number
 C:\Users\Robert\Downloads\Assignments-master\Assignments-master\Guess the Number Game GUI\Guess the Number Game GUI\obj\Debug\Guess_the_Number_Game_GUI.GuessTheNumberForm.resources
 C:\Users\Robert\Downloads\Assignments-master\Assignments-master\Guess the Number Game GUI\Guess the Number Game GUI\obj\Debug\Guess_the_Number_Game_GUI.Properties.Resources.resources
 C:\Users\Robert\Downloads\Assignments-master\Assignments-master\Guess the Number Game GUI\Guess the Number Game GUI\obj\Debug\Guess the Number Game GUI.csproj.GenerateResource.Cache
+D:\Assignments to GitHub\Guess the Number Game GUI\Guess the Number Game GUI\bin\Debug\Guess the Number Game GUI.exe.config
+D:\Assignments to GitHub\Guess the Number Game GUI\Guess the Number Game GUI\obj\Debug\Guess the Number Game GUI.exe
+D:\Assignments to GitHub\Guess the Number Game GUI\Guess the Number Game GUI\obj\Debug\Guess the Number Game GUI.pdb
