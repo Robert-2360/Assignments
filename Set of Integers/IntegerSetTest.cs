@@ -7,16 +7,14 @@ class IntegerSetTest
 {
    static void Main(string[] args)
    {
-      Console.WriteLine("Low Range: {0}", IntegerSet.LOW_RANGE);
-      Console.WriteLine("High Range: {0}", IntegerSet.HIGH_RANGE);
-      Console.WriteLine();
-
       try
       {
          // Test for the empty set
          IntegerSet empty = new IntegerSet();
+         Console.WriteLine("Low Range: {0}", empty.LOW_RANGE);
+         Console.WriteLine("High Range: {0}", empty.HIGH_RANGE);
          Console.WriteLine("Empty set: {0} \n", empty);
-
+        
          // Test InsertElement method is set A
          IntegerSet setA = new IntegerSet();
          setA.InsertElement(0);

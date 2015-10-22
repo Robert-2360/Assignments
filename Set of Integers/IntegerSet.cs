@@ -5,9 +5,18 @@ using System;
 
 class IntegerSet
 {
-   // Initialize constants
-   public static int LOW_RANGE = 0;
-   public static int HIGH_RANGE = 100;
+   // Declare class read only constants
+   private readonly int _LOW_RANGE;
+   public int LOW_RANGE
+   {
+      get { return _LOW_RANGE; }
+   }
+
+   private readonly int _HIGH_RANGE;
+   public int HIGH_RANGE
+   {
+      get { return _HIGH_RANGE; }
+   }
 
    // Declare class variables
    private bool[] _arraySet;
@@ -17,9 +26,11 @@ class IntegerSet
       private set { _arraySet = value; }
    }
 
-   // Constructor that sets all elements to false
+   // Constructor: Initialize read only constants, Set all elements to false
    public IntegerSet()
    {
+      _LOW_RANGE = 0;
+      _HIGH_RANGE = 100;
       ArraySet = new bool[HIGH_RANGE - LOW_RANGE + 1];
       for (int i = LOW_RANGE; i <= HIGH_RANGE; i++) ArraySet[i] = false;
    }
