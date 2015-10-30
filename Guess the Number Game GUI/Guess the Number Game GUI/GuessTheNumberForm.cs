@@ -10,7 +10,7 @@ namespace Guess_the_Number_Game_GUI
       int previousGuess = Int32.MaxValue;
       string openningMessage = string.Format("{0}\n{1}",
          "I have a number between 1 and 1000--can you guess my number?",
-         "Please enter your first guess in the box below.");
+         "Please enter your first guess in the box below. Then press Enter.");
       string againMessage = string.Format("{0}\n{1}",
          "Press the Play Again button",
          "or Close to quit");
