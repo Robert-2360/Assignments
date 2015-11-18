@@ -70,6 +70,4 @@ public class DuplicateElimination
          if (anArray[i] == aNumber) break;
       }
    }
-
-
 }
