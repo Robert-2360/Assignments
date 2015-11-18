@@ -1,0 +1,9 @@
+D:\Assignments to GitHub\Guess the Number Game GUI\Guess the Number Game GUI\bin\Debug\Guess the Number Game GUI.exe.config
+D:\Assignments to GitHub\Guess the Number Game GUI\Guess the Number Game GUI\bin\Debug\Guess the Number Game GUI.exe
+D:\Assignments to GitHub\Guess the Number Game GUI\Guess the Number Game GUI\bin\Debug\Guess the Number Game GUI.pdb
+D:\Assignments to GitHub\Guess the Number Game GUI\Guess the Number Game GUI\obj\Debug\Guess the Number Game GUI.csprojResolveAssemblyReference.cache
+D:\Assignments to GitHub\Guess the Number Game GUI\Guess the Number Game GUI\obj\Debug\Guess_the_Number_Game_GUI.GuessTheNumberForm.resources
+D:\Assignments to GitHub\Guess the Number Game GUI\Guess the Number Game GUI\obj\Debug\Guess_the_Number_Game_GUI.Properties.Resources.resources
+D:\Assignments to GitHub\Guess the Number Game GUI\Guess the Number Game GUI\obj\Debug\Guess the Number Game GUI.csproj.GenerateResource.Cache
+D:\Assignments to GitHub\Guess the Number Game GUI\Guess the Number Game GUI\obj\Debug\Guess the Number Game GUI.exe
+D:\Assignments to GitHub\Guess the Number Game GUI\Guess the Number Game GUI\obj\Debug\Guess the Number Game GUI.pdb
