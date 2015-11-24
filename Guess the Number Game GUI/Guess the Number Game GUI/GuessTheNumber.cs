@@ -3,6 +3,8 @@
 
 using System;
 
+//Grade: 10
+//All requirements have been met
 class GuessTheNumber
 {
    // The number that the user tries to guess

@@ -16,3 +16,12 @@ C:\Users\Robert\Downloads\Assignments-master\Assignments-master\Guess the Number
 C:\Users\Robert\Downloads\Assignments-master\Assignments-master\Guess the Number Game GUI\Guess the Number Game GUI\obj\Debug\Guess_the_Number_Game_GUI.GuessTheNumberForm.resources
 C:\Users\Robert\Downloads\Assignments-master\Assignments-master\Guess the Number Game GUI\Guess the Number Game GUI\obj\Debug\Guess_the_Number_Game_GUI.Properties.Resources.resources
 C:\Users\Robert\Downloads\Assignments-master\Assignments-master\Guess the Number Game GUI\Guess the Number Game GUI\obj\Debug\Guess the Number Game GUI.csproj.GenerateResource.Cache
+C:\Users\April\Documents\SSC\COP2360\Repositories\Robert\Assignments-1\Guess the Number Game GUI\Guess the Number Game GUI\bin\Debug\Guess the Number Game GUI.exe.config
+C:\Users\April\Documents\SSC\COP2360\Repositories\Robert\Assignments-1\Guess the Number Game GUI\Guess the Number Game GUI\obj\Debug\Guess the Number Game GUI.exe
+C:\Users\April\Documents\SSC\COP2360\Repositories\Robert\Assignments-1\Guess the Number Game GUI\Guess the Number Game GUI\obj\Debug\Guess the Number Game GUI.pdb
+C:\Users\April\Documents\SSC\COP2360\Repositories\Robert\Assignments-1\Guess the Number Game GUI\Guess the Number Game GUI\bin\Debug\Guess the Number Game GUI.exe
+C:\Users\April\Documents\SSC\COP2360\Repositories\Robert\Assignments-1\Guess the Number Game GUI\Guess the Number Game GUI\bin\Debug\Guess the Number Game GUI.pdb
+C:\Users\April\Documents\SSC\COP2360\Repositories\Robert\Assignments-1\Guess the Number Game GUI\Guess the Number Game GUI\obj\Debug\Guess the Number Game GUI.csprojResolveAssemblyReference.cache
+C:\Users\April\Documents\SSC\COP2360\Repositories\Robert\Assignments-1\Guess the Number Game GUI\Guess the Number Game GUI\obj\Debug\Guess_the_Number_Game_GUI.GuessTheNumberForm.resources
+C:\Users\April\Documents\SSC\COP2360\Repositories\Robert\Assignments-1\Guess the Number Game GUI\Guess the Number Game GUI\obj\Debug\Guess_the_Number_Game_GUI.Properties.Resources.resources
+C:\Users\April\Documents\SSC\COP2360\Repositories\Robert\Assignments-1\Guess the Number Game GUI\Guess the Number Game GUI\obj\Debug\Guess the Number Game GUI.csproj.GenerateResource.Cache
