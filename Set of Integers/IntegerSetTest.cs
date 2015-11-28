@@ -1,6 +1,7 @@
 ﻿// Exercise 10.8: Set of Integers
 // A test class for the IntegerSet class
 
+
 using System;
 
 class IntegerSetTest
