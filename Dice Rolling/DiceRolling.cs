@@ -2,7 +2,7 @@
 // Roll two dice 36,000 times and tally the results
 
 using System;
-
+//Grade: 10/10
 public class DiceRolling
 {
    public static void Main(string[] args)
@@ -15,6 +15,7 @@ public class DiceRolling
       Random random = new Random();
       int counter = 0;
       int[] tally = new int[SIZE];
+
       int[] expectedTally = { 0, 0, 1000, 2000, 3000, 4000, 5000, 6000, 5000, 4000, 3000, 2000, 1000 };
 
       // Roll dice 36,000 times
@@ -43,6 +44,7 @@ public class DiceRolling
    // Return a single die roll
    public static int RollDie(Random r)
    {
+       //You can use Next(1,7) to avoid the addition
       return 1 + r.Next(6);
    }
 

@@ -12,6 +12,10 @@
 
 using System;
 
+//Grade 9/10
+//Program does not validate numbers between 10 and 100
+//Requirements state that 5 numbers should be read in with only the exclusive numbers displayed, your program allows input of more than 5 numbers if duplicate numbers are added.
+//Requirements specify that the smallest possible array should be used, the last number does not need to be stored, so an array of size 4 can be used instead of 5.
 public class DuplicateElimination
 {
    public static void Main(string[] args)
