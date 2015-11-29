@@ -2,6 +2,8 @@
 
 using System;
 
+//Grade: 10
+
 namespace Shape_Hierarchy
 {
    public abstract class Shape
