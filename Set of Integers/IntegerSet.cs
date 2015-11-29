@@ -3,6 +3,12 @@
 
 using System;
 
+//Grade: 10
+//Observations
+//You have some unecessary complication with your _LOW_RANGE and _HIGH_RANGE usage.  They are being set in the constructor and then used to initialize the size of the ArraySet which is fine, except the rangess
+//are hardcoded in the constructor as 0-100, so the code on line 17 is more complex then it needs to be when the values are hardcoded anyway.You should always avoid unecessary complexity, if you want to use 
+//a configurable _LOW_RANGE and _HIGH_RANGE then you should default them but use the properites in the constructor
+
 class IntegerSet
 {
    // Declare class read only constants
