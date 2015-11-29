@@ -1,10 +1,10 @@
 ﻿// Guess the Number Class
 // A class used in Guess the Number Game
 
+using System;
+
 //Grade: 10
 //All requirements have been met
-
-using System;
 
 class GuessTheNumber
 {
