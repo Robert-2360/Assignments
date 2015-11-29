@@ -6,6 +6,13 @@ using System;
 //Grade: 10
 //All requirements have been met
 
+<<<<<<< HEAD
+=======
+using System;
+
+//Grade: 10
+//All requirements have been met
+>>>>>>> 2f3422ae1390ac0b378d7a6585afa06cd2da7e76
 class GuessTheNumber
 {
    // The number that the user tries to guess
