@@ -2,7 +2,9 @@
 // Roll two dice 36,000 times and tally the results
 
 using System;
+
 //Grade: 10/10
+
 public class DiceRolling
 {
    public static void Main(string[] args)
