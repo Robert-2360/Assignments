@@ -70,6 +70,4 @@ public class DiceRolling
       Console.WriteLine();
       Console.WriteLine("{0, 40}{1, 4}", "The sum of the differences is:", totalDifference);
    }
-
-
 }
