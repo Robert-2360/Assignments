@@ -3,10 +3,7 @@
 using System;
 
 //Grade: 10
-<<<<<<< HEAD
 
-=======
->>>>>>> 2f3422ae1390ac0b378d7a6585afa06cd2da7e76
 namespace Shape_Hierarchy
 {
    public abstract class Shape
