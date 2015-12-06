@@ -4,6 +4,7 @@
 // Tests interface IPayable with disparate classes.
 using System;
 
+//Grade 10 - Nice Job
 public class PayableInterfaceTest
 {
    public static void Main(string[] args)
