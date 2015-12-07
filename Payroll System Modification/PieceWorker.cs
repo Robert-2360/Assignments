@@ -2,6 +2,7 @@
 
 using System;
 
+//Grade: 10
 class PieceWorker : Employee
 {
    private decimal _wage;
